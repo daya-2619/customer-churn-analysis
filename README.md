@@ -1,6 +1,7 @@
 # customer-churn-analysis
 
 Short, reproducible exploratory analysis of customer churn using Jupyter Notebook(s).
+# [Live app](https://customer2619.streamlit.app)
 
 ## Table of contents
 - [Project overview](#project-overview)
